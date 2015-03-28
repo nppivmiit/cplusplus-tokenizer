@@ -1,0 +1,11 @@
+BASE_TOKENS_TYPE =
+{
+LETTERS=qwertyuiopasdfghjklzxcvbnm
+DIGITS=0123456789
+SEPARATOR= /n/r/t
+DIGIT_SEPARATOR=.,
+}
+MERGED_TOKENS_TYPE =
+{
+NUMBERS=["+","-"][DIGITS]
+}
